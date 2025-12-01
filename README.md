@@ -15,7 +15,7 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series**, d
 
 ## Repository / Access Links
 
-**GitHub:**    https://github.com/humanclarityinstitute/HCI-AISafetyRiskPerceptionBoundaryBehaviour-2025
+**GitHub:**    https://github.com/humanclarityinstitute/HCI-AISafetyRiskPerceptionBoundaryBehaviour-2025   
 **Zenodo:**    https://doi.org/10.5281/zenodo.17782047  
 **Figshare:**  https://doi.org/10.6084/m9.figshare.30757625 
 
@@ -201,3 +201,4 @@ Attribution text:
 Email: info@humanclarityinstitute.com  
 Website: https://humanclarityinstitute.com/  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
